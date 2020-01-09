@@ -1,3 +1,5 @@
+*** NOTE THIS REPO IS NO LONGER MAINTAINED, BUT IT SHOULD PROVIDE YOU WITH A DECENT START ***
+
 # flink-ha-k8s
 An example of how to build modern flink in ha mode on AWS w/ k8s
 
